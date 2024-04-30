@@ -1,7 +1,7 @@
 Package: DvDdata
 Type: Package
 Title: Drug versus Disease Data
-Version: 1.40.0
+Version: 1.41.0
 Date: 2012-07-24
 Author: C. Pacini
 Maintainer: J. Saez-Rodriguez <saezrodriguez@ebi.ac.uk>
